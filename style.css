@@ -1,5 +1,5 @@
 .f1 {
-  color: DarkBlue;
+  color: red;
   margin-top: 18px;
   margin-bottom: 12px;
   font-size: 20px;
@@ -8,7 +8,7 @@
 }
 .f2
 {
-  color: red;
+  color: black;
   margin-top: 6px;
   margin-bottom: 6px;
   font-size: 15x;
