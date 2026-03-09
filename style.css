@@ -9,7 +9,7 @@
 .header{
     flex: 25%;
     background-color: lightgray;
-    background: url("banner.png") center / cover no-repeat;
+    background: url("banner.png") center / 100%;
 }
 .menu{
    flex: 5%;
